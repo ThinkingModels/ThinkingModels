@@ -7,7 +7,8 @@ layout: default
 <h1>Models</h1>
 {% for category in site.categories %}
 <ul>
-    {% for post in category[1] %}
+    {% assign posts = category[1] | sort: "title" %}
+    {% for post in posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
