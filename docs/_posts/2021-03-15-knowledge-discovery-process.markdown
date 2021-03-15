@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agile Capabilities Model"
+title:  "The knowledge discovery process"
 date:   2021-03-12 17:00:46 +0100
 categories: model
 ---
