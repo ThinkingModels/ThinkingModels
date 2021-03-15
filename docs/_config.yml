@@ -23,6 +23,8 @@ email: models@okaloa.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collections of models to think about how work works,
   and how to introduce new ways of working in organizations.
+  Each model is licensed under its own license (see each model separatly).
+  Overall site content is (c) Okaloa, 2021.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PatrickSteyaert
